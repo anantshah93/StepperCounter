@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_plus_lib" type="id"/>
+    <item name="textView_minus_lib" type="id"/>
+</resources>
